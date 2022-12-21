@@ -26,7 +26,7 @@ function loadData() {
   let productList = document.getElementById("productList");
   let gross = 0;
 
-  document.getElementById("myName").innerHTML = "Hao Ye";
+  document.getElementById("myName").innerHTML = "TaoBao";
   for (let p in products) {
     let row = document.createElement("tr");
     let productName = document.createElement("td");

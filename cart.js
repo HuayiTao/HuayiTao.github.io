@@ -91,7 +91,7 @@ function loadDataOld() {
   let productList = document.getElementById("productList");
   let gross = 0;
 
-  document.getElementById("myName").innerHTML = "Hao Ye";
+  document.getElementById("myName").innerHTML = "Tao";
   for (let p in products) {
     let row = document.createElement("tr");
     let productName = document.createElement("td");
