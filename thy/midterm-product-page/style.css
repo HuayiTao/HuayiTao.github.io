@@ -1,0 +1,46 @@
+.text_left {
+    text-align: left;
+    padding-left: 10px;
+}
+
+.text_right {
+    text-align: right;
+    padding-right: 10px;
+}
+
+.text_center {
+    text-align: center;
+}
+
+.icon {
+    height: 2em;
+    width: 2em;
+  }
+
+.product_table {
+    border: 1px solid #0a0a0a;
+}
+
+.product_table tr th {
+    background-color: #30303077;
+    border-right: 1px solid #000000;
+    border-left: 1px solid #000000;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+.product_table tbody td {
+    border-left: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+}
+
+.product_table tbody td i {
+    padding-left: 7px;
+}
+
+.product_table tfoot td {
+    background-color: #bebdbd77;
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+}
